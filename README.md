@@ -10,12 +10,11 @@ This project provides a pipeline to:
 
 ## Installation
 
-### 1. Clone repository & create environment
+### Clone repository & create environment
 ```bash
 git clone https://github.com/Azinale/VietTable-Transformer.git
-cd ./src
+cd ./VietTB_transformer
 pip install -r requirements.txt
-```
 
 ocr_project/
 │── main.py                # Main pipeline entry point
@@ -39,7 +38,7 @@ ocr_project/
 │   └── file_io.py         # File dialog & CSV saving
 │
 └── outputs/               # OCR results
-
+```
 ### How to run?
 ```bash
 python main.py
