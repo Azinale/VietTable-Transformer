@@ -13,6 +13,9 @@ This project provides a pipeline to:
 ### Clone repository & create environment
 ```bash
 git clone https://github.com/Azinale/VietTable-Transformer.git
+```
+### install all requirements
+```bash
 cd ./VietTB_transformer
 pip install -r requirements.txt
 ```
